@@ -143,7 +143,7 @@
                     <!-- github repo name -->
                     <repositoryName>log4jdbc-log4j2</repositoryName>
                     <!-- github username -->
-                    <repositoryOwner>thisisyoon</repositoryOwner>
+                    <repositoryOwner>comicpanda</repositoryOwner>
                 </configuration>
                 <executions>
                     <execution>
