@@ -5,13 +5,11 @@
     <groupId>org.bgee.log4jdbc-log4j2</groupId>
     <artifactId>log4jdbc-log4j2</artifactId>
     <packaging>pom</packaging>
-    <version>1.17-SNAPSHOT</version>
+    <version>1.17.RELEASE</version>
     <name>log4jdbc-log4j2</name>
 
     <modules>
         <module>log4jdbc-log4j2-jdbc4.1</module>
-        <module>log4jdbc-log4j2-jdbc4</module>
-        <module>log4jdbc-log4j2-jdbc3</module>
     </modules>
 
     <url>http://code.google.com/p/log4jdbc-log4j2/</url>
